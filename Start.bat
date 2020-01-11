@@ -1,2 +1,0 @@
-node as.js
-pause
